@@ -1,961 +1,960 @@
-
 Size: 500
         Random array
-                MergeSort: 203
-                Hybrid MergeSort: 91
+                MergeSort: 239
+                Hybrid MergeSort: 136
         Descending array
-                MergeSort: 182
-                Hybrid MergeSort: 57
+                MergeSort: 247
+                Hybrid MergeSort: 122
         Nearly sorted array
-                MergeSort: 143
-                Hybrid MergeSort: 57
+                MergeSort: 257
+                Hybrid MergeSort: 102
 Size: 600
         Random array
-                MergeSort: 228
-                Hybrid MergeSort: 105
+                MergeSort: 352
+                Hybrid MergeSort: 162
         Descending array
-                MergeSort: 174
-                Hybrid MergeSort: 66
+                MergeSort: 255
+                Hybrid MergeSort: 99
         Nearly sorted array
-                MergeSort: 186
-                Hybrid MergeSort: 65
+                MergeSort: 207
+                Hybrid MergeSort: 77
 Size: 700
         Random array
-                MergeSort: 266
-                Hybrid MergeSort: 122
+                MergeSort: 320
+                Hybrid MergeSort: 146
         Descending array
-                MergeSort: 205
-                Hybrid MergeSort: 73
+                MergeSort: 258
+                Hybrid MergeSort: 107
         Nearly sorted array
-                MergeSort: 203
-                Hybrid MergeSort: 73
+                MergeSort: 252
+                Hybrid MergeSort: 79
 Size: 800
         Random array
-                MergeSort: 309
-                Hybrid MergeSort: 141
+                MergeSort: 379
+                Hybrid MergeSort: 187
         Descending array
-                MergeSort: 234
-                Hybrid MergeSort: 81
+                MergeSort: 317
+                Hybrid MergeSort: 181
         Nearly sorted array
-                MergeSort: 230
-                Hybrid MergeSort: 82
+                MergeSort: 300
+                Hybrid MergeSort: 198
 Size: 900
         Random array
-                MergeSort: 354
-                Hybrid MergeSort: 161
+                MergeSort: 474
+                Hybrid MergeSort: 254
         Descending array
-                MergeSort: 272
-                Hybrid MergeSort: 92
+                MergeSort: 523
+                Hybrid MergeSort: 222
         Nearly sorted array
-                MergeSort: 269
-                Hybrid MergeSort: 92
+                MergeSort: 464
+                Hybrid MergeSort: 116
 Size: 1000
         Random array
-                MergeSort: 398
-                Hybrid MergeSort: 217
+                MergeSort: 536
+                Hybrid MergeSort: 309
         Descending array
-                MergeSort: 305
-                Hybrid MergeSort: 129
+                MergeSort: 456
+                Hybrid MergeSort: 164
         Nearly sorted array
-                MergeSort: 302
-                Hybrid MergeSort: 127
+                MergeSort: 386
+                Hybrid MergeSort: 139
 Size: 1100
         Random array
-                MergeSort: 942
-                Hybrid MergeSort: 232
-        Descending array
-                MergeSort: 337
-                Hybrid MergeSort: 137
-        Nearly sorted array
-                MergeSort: 333
-                Hybrid MergeSort: 138
-Size: 1200
-        Random array
-                MergeSort: 506
-                Hybrid MergeSort: 252
-        Descending array
-                MergeSort: 366
-                Hybrid MergeSort: 146
-        Nearly sorted array
-                MergeSort: 362
-                Hybrid MergeSort: 146
-Size: 1300
-        Random array
-                MergeSort: 511
-                Hybrid MergeSort: 267
+                MergeSort: 500
+                Hybrid MergeSort: 248
         Descending array
                 MergeSort: 380
-                Hybrid MergeSort: 153
+                Hybrid MergeSort: 176
         Nearly sorted array
-                MergeSort: 376
-                Hybrid MergeSort: 152
+                MergeSort: 394
+                Hybrid MergeSort: 150
+Size: 1200
+        Random array
+                MergeSort: 547
+                Hybrid MergeSort: 363
+        Descending array
+                MergeSort: 621
+                Hybrid MergeSort: 280
+        Nearly sorted array
+                MergeSort: 444
+                Hybrid MergeSort: 182
+Size: 1300
+        Random array
+                MergeSort: 588
+                Hybrid MergeSort: 291
+        Descending array
+                MergeSort: 434
+                Hybrid MergeSort: 206
+        Nearly sorted array
+                MergeSort: 463
+                Hybrid MergeSort: 166
 Size: 1400
         Random array
-                MergeSort: 555
-                Hybrid MergeSort: 290
+                MergeSort: 634
+                Hybrid MergeSort: 311
         Descending array
-                MergeSort: 423
-                Hybrid MergeSort: 163
+                MergeSort: 484
+                Hybrid MergeSort: 225
         Nearly sorted array
-                MergeSort: 419
-                Hybrid MergeSort: 163
+                MergeSort: 614
+                Hybrid MergeSort: 199
 Size: 1500
         Random array
-                MergeSort: 601
-                Hybrid MergeSort: 316
+                MergeSort: 779
+                Hybrid MergeSort: 377
         Descending array
-                MergeSort: 451
-                Hybrid MergeSort: 174
+                MergeSort: 563
+                Hybrid MergeSort: 255
         Nearly sorted array
-                MergeSort: 449
-                Hybrid MergeSort: 173
+                MergeSort: 542
+                Hybrid MergeSort: 196
 Size: 1600
         Random array
-                MergeSort: 641
-                Hybrid MergeSort: 341
+                MergeSort: 739
+                Hybrid MergeSort: 363
         Descending array
-                MergeSort: 480
-                Hybrid MergeSort: 184
+                MergeSort: 608
+                Hybrid MergeSort: 261
         Nearly sorted array
-                MergeSort: 476
-                Hybrid MergeSort: 184
+                MergeSort: 585
+                Hybrid MergeSort: 195
 Size: 1700
         Random array
-                MergeSort: 681
-                Hybrid MergeSort: 361
+                MergeSort: 777
+                Hybrid MergeSort: 392
         Descending array
-                MergeSort: 508
-                Hybrid MergeSort: 194
+                MergeSort: 589
+                Hybrid MergeSort: 283
         Nearly sorted array
-                MergeSort: 502
-                Hybrid MergeSort: 194
+                MergeSort: 606
+                Hybrid MergeSort: 209
 Size: 1800
         Random array
-                MergeSort: 707
-                Hybrid MergeSort: 388
+                MergeSort: 825
+                Hybrid MergeSort: 422
         Descending array
-                MergeSort: 528
-                Hybrid MergeSort: 217
+                MergeSort: 608
+                Hybrid MergeSort: 301
         Nearly sorted array
-                MergeSort: 524
-                Hybrid MergeSort: 207
+                MergeSort: 733
+                Hybrid MergeSort: 250
 Size: 1900
         Random array
-                MergeSort: 770
-                Hybrid MergeSort: 489
+                MergeSort: 904
+                Hybrid MergeSort: 486
         Descending array
-                MergeSort: 571
-                Hybrid MergeSort: 258
+                MergeSort: 686
+                Hybrid MergeSort: 331
         Nearly sorted array
-                MergeSort: 567
-                Hybrid MergeSort: 259
+                MergeSort: 804
+                Hybrid MergeSort: 286
 Size: 2000
         Random array
-                MergeSort: 818
-                Hybrid MergeSort: 481
+                MergeSort: 914
+                Hybrid MergeSort: 514
         Descending array
-                MergeSort: 587
-                Hybrid MergeSort: 268
+                MergeSort: 681
+                Hybrid MergeSort: 337
         Nearly sorted array
-                MergeSort: 584
-                Hybrid MergeSort: 268
+                MergeSort: 703
+                Hybrid MergeSort: 291
 Size: 2100
         Random array
-                MergeSort: 837
-                Hybrid MergeSort: 492
+                MergeSort: 1059
+                Hybrid MergeSort: 582
         Descending array
-                MergeSort: 615
-                Hybrid MergeSort: 277
+                MergeSort: 720
+                Hybrid MergeSort: 353
         Nearly sorted array
-                MergeSort: 612
-                Hybrid MergeSort: 277
+                MergeSort: 761
+                Hybrid MergeSort: 305
 Size: 2200
         Random array
-                MergeSort: 874
-                Hybrid MergeSort: 517
+                MergeSort: 1003
+                Hybrid MergeSort: 556
         Descending array
-                MergeSort: 646
-                Hybrid MergeSort: 290
+                MergeSort: 754
+                Hybrid MergeSort: 368
         Nearly sorted array
-                MergeSort: 642
-                Hybrid MergeSort: 289
+                MergeSort: 776
+                Hybrid MergeSort: 311
 Size: 2300
         Random array
-                MergeSort: 922
-                Hybrid MergeSort: 536
+                MergeSort: 1092
+                Hybrid MergeSort: 587
         Descending array
-                MergeSort: 673
-                Hybrid MergeSort: 300
-        Nearly sorted array
-                MergeSort: 682
-                Hybrid MergeSort: 299
-Size: 2400
-        Random array
-                MergeSort: 972
-                Hybrid MergeSort: 569
-        Descending array
-                MergeSort: 723
-                Hybrid MergeSort: 318
-        Nearly sorted array
-                MergeSort: 717
-                Hybrid MergeSort: 318
-Size: 2500
-        Random array
-                MergeSort: 1009
-                Hybrid MergeSort: 580
-        Descending array
-                MergeSort: 736
-                Hybrid MergeSort: 314
-        Nearly sorted array
-                MergeSort: 748
-                Hybrid MergeSort: 315
-Size: 2600
-        Random array
-                MergeSort: 1060
-                Hybrid MergeSort: 609
-        Descending array
-                MergeSort: 768
-                Hybrid MergeSort: 326
-        Nearly sorted array
-                MergeSort: 767
-                Hybrid MergeSort: 422
-Size: 2700
-        Random array
-                MergeSort: 1228
-                Hybrid MergeSort: 628
-        Descending array
-                MergeSort: 815
-                Hybrid MergeSort: 337
-        Nearly sorted array
-                MergeSort: 798
-                Hybrid MergeSort: 337
-Size: 2800
-        Random array
-                MergeSort: 1136
-                Hybrid MergeSort: 671
-        Descending array
-                MergeSort: 836
-                Hybrid MergeSort: 348
-        Nearly sorted array
-                MergeSort: 830
-                Hybrid MergeSort: 348
-Size: 2900
-        Random array
-                MergeSort: 1274
-                Hybrid MergeSort: 696
-        Descending array
-                MergeSort: 867
-                Hybrid MergeSort: 366
-        Nearly sorted array
-                MergeSort: 871
-                Hybrid MergeSort: 364
-Size: 3000
-        Random array
-                MergeSort: 1241
-                Hybrid MergeSort: 718
-        Descending array
-                MergeSort: 910
-                Hybrid MergeSort: 381
-        Nearly sorted array
-                MergeSort: 896
-                Hybrid MergeSort: 384
-Size: 3100
-        Random array
-                MergeSort: 1256
-                Hybrid MergeSort: 731
-        Descending array
-                MergeSort: 926
-                Hybrid MergeSort: 386
-        Nearly sorted array
-                MergeSort: 920
-                Hybrid MergeSort: 386
-Size: 3200
-        Random array
-                MergeSort: 1300
-                Hybrid MergeSort: 748
-        Descending array
-                MergeSort: 958
-                Hybrid MergeSort: 394
-        Nearly sorted array
-                MergeSort: 941
-                Hybrid MergeSort: 393
-Size: 3300
-        Random array
-                MergeSort: 1332
-                Hybrid MergeSort: 770
-        Descending array
-                MergeSort: 979
+                MergeSort: 887
                 Hybrid MergeSort: 406
         Nearly sorted array
-                MergeSort: 978
-                Hybrid MergeSort: 444
-Size: 3400
+                MergeSort: 858
+                Hybrid MergeSort: 318
+Size: 2400
         Random array
-                MergeSort: 1399
-                Hybrid MergeSort: 803
+                MergeSort: 1121
+                Hybrid MergeSort: 648
         Descending array
-                MergeSort: 1037
-                Hybrid MergeSort: 434
+                MergeSort: 932
+                Hybrid MergeSort: 486
         Nearly sorted array
-                MergeSort: 1014
-                Hybrid MergeSort: 421
-Size: 3500
+                MergeSort: 924
+                Hybrid MergeSort: 455
+Size: 2500
         Random array
-                MergeSort: 1435
-                Hybrid MergeSort: 829
+                MergeSort: 1484
+                Hybrid MergeSort: 684
         Descending array
-                MergeSort: 1063
-                Hybrid MergeSort: 443
-        Nearly sorted array
-                MergeSort: 1090
+                MergeSort: 990
                 Hybrid MergeSort: 425
-Size: 3600
-        Random array
-                MergeSort: 1481
-                Hybrid MergeSort: 854
-        Descending array
-                MergeSort: 1080
-                Hybrid MergeSort: 441
         Nearly sorted array
-                MergeSort: 1073
-                Hybrid MergeSort: 438
-Size: 3700
+                MergeSort: 889
+                Hybrid MergeSort: 339
+Size: 2600
         Random array
-                MergeSort: 1517
-                Hybrid MergeSort: 909
+                MergeSort: 1212
+                Hybrid MergeSort: 660
         Descending array
-                MergeSort: 1106
-                Hybrid MergeSort: 479
+                MergeSort: 892
+                Hybrid MergeSort: 433
         Nearly sorted array
-                MergeSort: 1110
-                Hybrid MergeSort: 479
-Size: 3800
+                MergeSort: 959
+                Hybrid MergeSort: 347
+Size: 2700
         Random array
-                MergeSort: 1546
-                Hybrid MergeSort: 950
+                MergeSort: 1343
+                Hybrid MergeSort: 679
         Descending array
-                MergeSort: 1209
-                Hybrid MergeSort: 535
+                MergeSort: 1061
+                Hybrid MergeSort: 587
         Nearly sorted array
-                MergeSort: 1195
-                Hybrid MergeSort: 534
-Size: 3900
+                MergeSort: 979
+                Hybrid MergeSort: 545
+Size: 2800
         Random array
-                MergeSort: 1591
-                Hybrid MergeSort: 1020
+                MergeSort: 1448
+                Hybrid MergeSort: 734
         Descending array
-                MergeSort: 1172
-                Hybrid MergeSort: 555
+                MergeSort: 967
+                Hybrid MergeSort: 478
         Nearly sorted array
-                MergeSort: 1172
-                Hybrid MergeSort: 555
-Size: 4000
+                MergeSort: 1004
+                Hybrid MergeSort: 395
+Size: 2900
         Random array
-                MergeSort: 1638
-                Hybrid MergeSort: 1026
+                MergeSort: 1369
+                Hybrid MergeSort: 749
         Descending array
-                MergeSort: 1199
-                Hybrid MergeSort: 563
+                MergeSort: 1017
+                Hybrid MergeSort: 503
+        Nearly sorted array
+                MergeSort: 1390
+                Hybrid MergeSort: 717
+Size: 3000
+        Random array
+                MergeSort: 1831
+                Hybrid MergeSort: 914
+        Descending array
+                MergeSort: 1142
+                Hybrid MergeSort: 591
+        Nearly sorted array
+                MergeSort: 1240
+                Hybrid MergeSort: 414
+Size: 3100
+        Random array
+                MergeSort: 1468
+                Hybrid MergeSort: 788
+        Descending array
+                MergeSort: 1121
+                Hybrid MergeSort: 557
+        Nearly sorted array
+                MergeSort: 1359
+                Hybrid MergeSort: 461
+Size: 3200
+        Random array
+                MergeSort: 1599
+                Hybrid MergeSort: 916
+        Descending array
+                MergeSort: 1335
+                Hybrid MergeSort: 598
         Nearly sorted array
                 MergeSort: 1184
-                Hybrid MergeSort: 556
-Size: 4100
+                Hybrid MergeSort: 468
+Size: 3300
         Random array
-                MergeSort: 1768
-                Hybrid MergeSort: 1045
+                MergeSort: 1885
+                Hybrid MergeSort: 855
         Descending array
-                MergeSort: 1218
-                Hybrid MergeSort: 570
+                MergeSort: 1185
+                Hybrid MergeSort: 581
         Nearly sorted array
-                MergeSort: 1204
-                Hybrid MergeSort: 570
-Size: 4200
+                MergeSort: 1191
+                Hybrid MergeSort: 454
+Size: 3400
         Random array
-                MergeSort: 1700
-                Hybrid MergeSort: 1052
+                MergeSort: 1647
+                Hybrid MergeSort: 891
         Descending array
-                MergeSort: 1247
-                Hybrid MergeSort: 582
-        Nearly sorted array
-                MergeSort: 1235
-                Hybrid MergeSort: 577
-Size: 4300
-        Random array
-                MergeSort: 1735
-                Hybrid MergeSort: 1079
-        Descending array
-                MergeSort: 1309
-                Hybrid MergeSort: 596
-        Nearly sorted array
-                MergeSort: 1266
-                Hybrid MergeSort: 610
-Size: 4400
-        Random array
-                MergeSort: 1782
-                Hybrid MergeSort: 1093
-        Descending array
-                MergeSort: 1346
-                Hybrid MergeSort: 609
-        Nearly sorted array
-                MergeSort: 1307
-                Hybrid MergeSort: 599
-Size: 4500
-        Random array
-                MergeSort: 1812
-                Hybrid MergeSort: 1117
-        Descending array
-                MergeSort: 1333
-                Hybrid MergeSort: 618
-        Nearly sorted array
-                MergeSort: 1544
-                Hybrid MergeSort: 649
-Size: 4600
-        Random array
-                MergeSort: 1841
-                Hybrid MergeSort: 1129
-        Descending array
-                MergeSort: 1373
-                Hybrid MergeSort: 621
-        Nearly sorted array
-                MergeSort: 1349
-                Hybrid MergeSort: 620
-Size: 4700
-        Random array
-                MergeSort: 1880
-                Hybrid MergeSort: 1158
-        Descending array
-                MergeSort: 1376
-                Hybrid MergeSort: 627
-        Nearly sorted array
-                MergeSort: 1481
-                Hybrid MergeSort: 985
-Size: 4800
-        Random array
-                MergeSort: 2045
-                Hybrid MergeSort: 1196
-        Descending array
-                MergeSort: 1410
-                Hybrid MergeSort: 699
-        Nearly sorted array
-                MergeSort: 1500
-                Hybrid MergeSort: 678
-Size: 4900
-        Random array
-                MergeSort: 1979
-                Hybrid MergeSort: 1212
-        Descending array
-                MergeSort: 1536
-                Hybrid MergeSort: 669
-        Nearly sorted array
-                MergeSort: 1556
-                Hybrid MergeSort: 889
-Size: 5000
-        Random array
-                MergeSort: 2000
-                Hybrid MergeSort: 1231
-        Descending array
-                MergeSort: 1462
-                Hybrid MergeSort: 651
-        Nearly sorted array
-                MergeSort: 1454
-                Hybrid MergeSort: 650
-Size: 5100
-        Random array
-                MergeSort: 2194
-                Hybrid MergeSort: 1274
-        Descending array
-                MergeSort: 1724
-                Hybrid MergeSort: 685
-        Nearly sorted array
-                MergeSort: 1487
-                Hybrid MergeSort: 663
-Size: 5200
-        Random array
-                MergeSort: 2097
-                Hybrid MergeSort: 1259
-        Descending array
-                MergeSort: 1528
-                Hybrid MergeSort: 673
-        Nearly sorted array
-                MergeSort: 1503
-                Hybrid MergeSort: 691
-Size: 5300
-        Random array
-                MergeSort: 2104
-                Hybrid MergeSort: 1272
-        Descending array
-                MergeSort: 2719
-                Hybrid MergeSort: 1270
-        Nearly sorted array
-                MergeSort: 2141
-                Hybrid MergeSort: 740
-Size: 5400
-        Random array
-                MergeSort: 2193
-                Hybrid MergeSort: 1660
-        Descending array
-                MergeSort: 1658
-                Hybrid MergeSort: 697
-        Nearly sorted array
-                MergeSort: 1570
-                Hybrid MergeSort: 693
-Size: 5500
-        Random array
-                MergeSort: 2285
-                Hybrid MergeSort: 1393
-        Descending array
-                MergeSort: 1636
+                MergeSort: 1182
                 Hybrid MergeSort: 717
         Nearly sorted array
                 MergeSort: 1599
-                Hybrid MergeSort: 703
-Size: 5600
+                Hybrid MergeSort: 496
+Size: 3500
         Random array
-                MergeSort: 2211
-                Hybrid MergeSort: 1341
+                MergeSort: 1750
+                Hybrid MergeSort: 941
         Descending array
-                MergeSort: 1633
-                Hybrid MergeSort: 711
+                MergeSort: 1272
+                Hybrid MergeSort: 661
         Nearly sorted array
-                MergeSort: 1622
-                Hybrid MergeSort: 712
-Size: 5700
+                MergeSort: 1288
+                Hybrid MergeSort: 511
+Size: 3600
         Random array
-                MergeSort: 2617
-                Hybrid MergeSort: 1352
+                MergeSort: 1725
+                Hybrid MergeSort: 973
         Descending array
-                MergeSort: 1645
-                Hybrid MergeSort: 717
+                MergeSort: 1335
+                Hybrid MergeSort: 682
         Nearly sorted array
-                MergeSort: 1645
-                Hybrid MergeSort: 715
-Size: 5800
+                MergeSort: 1343
+                Hybrid MergeSort: 476
+Size: 3700
         Random array
-                MergeSort: 2275
-                Hybrid MergeSort: 1376
+                MergeSort: 1807
+                Hybrid MergeSort: 1025
         Descending array
-                MergeSort: 1693
-                Hybrid MergeSort: 721
+                MergeSort: 1371
+                Hybrid MergeSort: 697
         Nearly sorted array
-                MergeSort: 1753
-                Hybrid MergeSort: 737
-Size: 5900
+                MergeSort: 1390
+                Hybrid MergeSort: 542
+Size: 3800
         Random array
-                MergeSort: 2301
-                Hybrid MergeSort: 1388
+                MergeSort: 1817
+                Hybrid MergeSort: 1070
         Descending array
-                MergeSort: 1683
-                Hybrid MergeSort: 726
+                MergeSort: 1352
+                Hybrid MergeSort: 740
         Nearly sorted array
-                MergeSort: 1674
-                Hybrid MergeSort: 725
-Size: 6000
+                MergeSort: 1457
+                Hybrid MergeSort: 595
+Size: 3900
         Random array
-                MergeSort: 2319
-                Hybrid MergeSort: 1407
+                MergeSort: 1901
+                Hybrid MergeSort: 1265
         Descending array
-                MergeSort: 1707
-                Hybrid MergeSort: 846
+                MergeSort: 1350
+                Hybrid MergeSort: 710
         Nearly sorted array
-                MergeSort: 1909
-                Hybrid MergeSort: 1244
-Size: 6100
+                MergeSort: 1433
+                Hybrid MergeSort: 647
+Size: 4000
         Random array
-                MergeSort: 3617
-                Hybrid MergeSort: 1513
+                MergeSort: 1902
+                Hybrid MergeSort: 1126
         Descending array
-                MergeSort: 1801
-                Hybrid MergeSort: 760
+                MergeSort: 1405
+                Hybrid MergeSort: 845
         Nearly sorted array
-                MergeSort: 1747
-                Hybrid MergeSort: 748
-Size: 6200
+                MergeSort: 1678
+                Hybrid MergeSort: 638
+Size: 4100
         Random array
-                MergeSort: 2620
-                Hybrid MergeSort: 1659
+                MergeSort: 1931
+                Hybrid MergeSort: 1398
         Descending array
-                MergeSort: 1757
-                Hybrid MergeSort: 756
-        Nearly sorted array
                 MergeSort: 1785
-                Hybrid MergeSort: 767
-Size: 6300
-        Random array
-                MergeSort: 2430
-                Hybrid MergeSort: 1466
-        Descending array
-                MergeSort: 1765
-                Hybrid MergeSort: 764
+                Hybrid MergeSort: 789
         Nearly sorted array
-                MergeSort: 2088
-                Hybrid MergeSort: 765
-Size: 6400
+                MergeSort: 1457
+                Hybrid MergeSort: 641
+Size: 4200
         Random array
-                MergeSort: 2649
-                Hybrid MergeSort: 1512
+                MergeSort: 1997
+                Hybrid MergeSort: 1175
         Descending array
-                MergeSort: 1799
-                Hybrid MergeSort: 776
+                MergeSort: 1471
+                Hybrid MergeSort: 759
         Nearly sorted array
-                MergeSort: 1789
-                Hybrid MergeSort: 777
-Size: 6500
+                MergeSort: 1499
+                Hybrid MergeSort: 653
+Size: 4300
         Random array
-                MergeSort: 2514
-                Hybrid MergeSort: 1587
+                MergeSort: 2094
+                Hybrid MergeSort: 1228
         Descending array
-                MergeSort: 1939
+                MergeSort: 1521
                 Hybrid MergeSort: 799
         Nearly sorted array
-                MergeSort: 1867
-                Hybrid MergeSort: 787
-Size: 6600
+                MergeSort: 1557
+                Hybrid MergeSort: 660
+Size: 4400
         Random array
-                MergeSort: 2536
-                Hybrid MergeSort: 1543
-        Descending array
-                MergeSort: 1863
-                Hybrid MergeSort: 794
-        Nearly sorted array
-                MergeSort: 1839
-                Hybrid MergeSort: 908
-Size: 6700
-        Random array
-                MergeSort: 3373
-                Hybrid MergeSort: 2180
-        Descending array
-                MergeSort: 2927
-                Hybrid MergeSort: 836
-        Nearly sorted array
-                MergeSort: 1961
-                Hybrid MergeSort: 801
-Size: 6800
-        Random array
-                MergeSort: 2632
-                Hybrid MergeSort: 1638
-        Descending array
                 MergeSort: 2106
-                Hybrid MergeSort: 848
+                Hybrid MergeSort: 1246
+        Descending array
+                MergeSort: 1577
+                Hybrid MergeSort: 810
         Nearly sorted array
-                MergeSort: 1892
+                MergeSort: 1602
+                Hybrid MergeSort: 681
+Size: 4500
+        Random array
+                MergeSort: 2223
+                Hybrid MergeSort: 1307
+        Descending array
+                MergeSort: 1723
+                Hybrid MergeSort: 866
+        Nearly sorted array
+                MergeSort: 1669
+                Hybrid MergeSort: 686
+Size: 4600
+        Random array
+                MergeSort: 2185
+                Hybrid MergeSort: 1276
+        Descending array
+                MergeSort: 1688
+                Hybrid MergeSort: 927
+        Nearly sorted array
+                MergeSort: 1707
+                Hybrid MergeSort: 688
+Size: 4700
+        Random array
+                MergeSort: 2295
+                Hybrid MergeSort: 1327
+        Descending array
+                MergeSort: 1716
+                Hybrid MergeSort: 861
+        Nearly sorted array
+                MergeSort: 1759
+                Hybrid MergeSort: 707
+Size: 4800
+        Random array
+                MergeSort: 2372
+                Hybrid MergeSort: 1352
+        Descending array
+                MergeSort: 1882
+                Hybrid MergeSort: 1076
+        Nearly sorted array
+                MergeSort: 1926
+                Hybrid MergeSort: 773
+Size: 4900
+        Random array
+                MergeSort: 2378
+                Hybrid MergeSort: 1366
+        Descending array
+                MergeSort: 1764
+                Hybrid MergeSort: 882
+        Nearly sorted array
+                MergeSort: 1787
+                Hybrid MergeSort: 733
+Size: 5000
+        Random array
+                MergeSort: 3479
+                Hybrid MergeSort: 1394
+        Descending array
+                MergeSort: 1802
+                Hybrid MergeSort: 896
+        Nearly sorted array
+                MergeSort: 1832
+                Hybrid MergeSort: 747
+Size: 5100
+        Random array
+                MergeSort: 2478
+                Hybrid MergeSort: 1415
+        Descending array
+                MergeSort: 1864
+                Hybrid MergeSort: 1619
+        Nearly sorted array
+                MergeSort: 1885
+                Hybrid MergeSort: 783
+Size: 5200
+        Random array
+                MergeSort: 2573
+                Hybrid MergeSort: 1476
+        Descending array
+                MergeSort: 1912
+                Hybrid MergeSort: 952
+        Nearly sorted array
+                MergeSort: 1935
+                Hybrid MergeSort: 793
+Size: 5300
+        Random array
+                MergeSort: 3276
+                Hybrid MergeSort: 1530
+        Descending array
+                MergeSort: 1962
+                Hybrid MergeSort: 958
+        Nearly sorted array
+                MergeSort: 1958
+                Hybrid MergeSort: 793
+Size: 5400
+        Random array
+                MergeSort: 2643
+                Hybrid MergeSort: 1500
+        Descending array
+                MergeSort: 1985
+                Hybrid MergeSort: 977
+        Nearly sorted array
+                MergeSort: 3195
                 Hybrid MergeSort: 805
-Size: 6900
+Size: 5500
         Random array
-                MergeSort: 2635
-                Hybrid MergeSort: 1589
+                MergeSort: 2708
+                Hybrid MergeSort: 1528
         Descending array
-                MergeSort: 1919
-                Hybrid MergeSort: 815
+                MergeSort: 2002
+                Hybrid MergeSort: 999
         Nearly sorted array
-                MergeSort: 2590
-                Hybrid MergeSort: 1027
-Size: 7000
-        Random array
-                MergeSort: 2755
-                Hybrid MergeSort: 2506
-        Descending array
-                MergeSort: 1988
-                Hybrid MergeSort: 836
-        Nearly sorted array
-                MergeSort: 1960
-                Hybrid MergeSort: 836
-Size: 7100
-        Random array
-                MergeSort: 3077
-                Hybrid MergeSort: 1646
-        Descending array
-                MergeSort: 1999
-                Hybrid MergeSort: 849
-        Nearly sorted array
-                MergeSort: 2000
-                Hybrid MergeSort: 832
-Size: 7200
-        Random array
-                MergeSort: 2724
-                Hybrid MergeSort: 1657
-        Descending array
-                MergeSort: 3143
-                Hybrid MergeSort: 879
-        Nearly sorted array
-                MergeSort: 2447
-                Hybrid MergeSort: 1062
-Size: 7300
-        Random array
-                MergeSort: 2817
-                Hybrid MergeSort: 1707
-        Descending array
-                MergeSort: 2021
-                Hybrid MergeSort: 887
-        Nearly sorted array
-                MergeSort: 2114
-                Hybrid MergeSort: 888
-Size: 7400
-        Random array
-                MergeSort: 2808
-                Hybrid MergeSort: 1746
-        Descending array
-                MergeSort: 2048
-                Hybrid MergeSort: 926
-        Nearly sorted array
-                MergeSort: 2038
-                Hybrid MergeSort: 918
-Size: 7500
-        Random array
-                MergeSort: 2853
-                Hybrid MergeSort: 1977
-        Descending array
-                MergeSort: 2078
-                Hybrid MergeSort: 968
-        Nearly sorted array
-                MergeSort: 2061
-                Hybrid MergeSort: 966
-Size: 7600
-        Random array
-                MergeSort: 2865
-                Hybrid MergeSort: 1832
-        Descending array
-                MergeSort: 2088
-                Hybrid MergeSort: 1362
-        Nearly sorted array
-                MergeSort: 3135
-                Hybrid MergeSort: 5511
-Size: 7700
+                MergeSort: 2018
+                Hybrid MergeSort: 841
+Size: 5600
         Random array
                 MergeSort: 2838
-                Hybrid MergeSort: 1868
+                Hybrid MergeSort: 1606
         Descending array
-                MergeSort: 2373
-                Hybrid MergeSort: 1099
+                MergeSort: 2057
+                Hybrid MergeSort: 1015
         Nearly sorted array
-                MergeSort: 2121
-                Hybrid MergeSort: 1064
+                MergeSort: 2076
+                Hybrid MergeSort: 852
+Size: 5700
+        Random array
+                MergeSort: 2799
+                Hybrid MergeSort: 1615
+        Descending array
+                MergeSort: 2139
+                Hybrid MergeSort: 1204
+        Nearly sorted array
+                MergeSort: 2635
+                Hybrid MergeSort: 1097
+Size: 5800
+        Random array
+                MergeSort: 2976
+                Hybrid MergeSort: 1617
+        Descending array
+                MergeSort: 2130
+                Hybrid MergeSort: 1122
+        Nearly sorted array
+                MergeSort: 2346
+                Hybrid MergeSort: 841
+Size: 5900
+        Random array
+                MergeSort: 5471
+                Hybrid MergeSort: 2360
+        Descending array
+                MergeSort: 2901
+                Hybrid MergeSort: 1258
+        Nearly sorted array
+                MergeSort: 2329
+                Hybrid MergeSort: 871
+Size: 6000
+        Random array
+                MergeSort: 3375
+                Hybrid MergeSort: 1862
+        Descending array
+                MergeSort: 2716
+                Hybrid MergeSort: 1147
+        Nearly sorted array
+                MergeSort: 2265
+                Hybrid MergeSort: 879
+Size: 6100
+        Random array
+                MergeSort: 3011
+                Hybrid MergeSort: 1696
+        Descending array
+                MergeSort: 2213
+                Hybrid MergeSort: 1333
+        Nearly sorted array
+                MergeSort: 2566
+                Hybrid MergeSort: 1286
+Size: 6200
+        Random array
+                MergeSort: 3147
+                Hybrid MergeSort: 1729
+        Descending array
+                MergeSort: 2306
+                Hybrid MergeSort: 1522
+        Nearly sorted array
+                MergeSort: 2826
+                Hybrid MergeSort: 1570
+Size: 6300
+        Random array
+                MergeSort: 3641
+                Hybrid MergeSort: 1794
+        Descending array
+                MergeSort: 2680
+                Hybrid MergeSort: 1196
+        Nearly sorted array
+                MergeSort: 2410
+                Hybrid MergeSort: 968
+Size: 6400
+        Random array
+                MergeSort: 4435
+                Hybrid MergeSort: 2210
+        Descending array
+                MergeSort: 2458
+                Hybrid MergeSort: 1195
+        Nearly sorted array
+                MergeSort: 2457
+                Hybrid MergeSort: 921
+Size: 6500
+        Random array
+                MergeSort: 3732
+                Hybrid MergeSort: 2025
+        Descending array
+                MergeSort: 2754
+                Hybrid MergeSort: 1256
+        Nearly sorted array
+                MergeSort: 2518
+                Hybrid MergeSort: 1197
+Size: 6600
+        Random array
+                MergeSort: 3534
+                Hybrid MergeSort: 1971
+        Descending array
+                MergeSort: 2764
+                Hybrid MergeSort: 1399
+        Nearly sorted array
+                MergeSort: 2544
+                Hybrid MergeSort: 982
+Size: 6700
+        Random array
+                MergeSort: 3701
+                Hybrid MergeSort: 1984
+        Descending array
+                MergeSort: 2659
+                Hybrid MergeSort: 1252
+        Nearly sorted array
+                MergeSort: 2529
+                Hybrid MergeSort: 962
+Size: 6800
+        Random array
+                MergeSort: 3428
+                Hybrid MergeSort: 1908
+        Descending array
+                MergeSort: 2453
+                Hybrid MergeSort: 1409
+        Nearly sorted array
+                MergeSort: 2595
+                Hybrid MergeSort: 982
+Size: 6900
+        Random array
+                MergeSort: 3436
+                Hybrid MergeSort: 1928
+        Descending array
+                MergeSort: 2812
+                Hybrid MergeSort: 1299
+        Nearly sorted array
+                MergeSort: 3322
+                Hybrid MergeSort: 1052
+Size: 7000
+        Random array
+                MergeSort: 3815
+                Hybrid MergeSort: 1985
+        Descending array
+                MergeSort: 2572
+                Hybrid MergeSort: 1327
+        Nearly sorted array
+                MergeSort: 3155
+                Hybrid MergeSort: 1637
+Size: 7100
+        Random array
+                MergeSort: 3811
+                Hybrid MergeSort: 2024
+        Descending array
+                MergeSort: 2644
+                Hybrid MergeSort: 1395
+        Nearly sorted array
+                MergeSort: 3977
+                Hybrid MergeSort: 1433
+Size: 7200
+        Random array
+                MergeSort: 4468
+                Hybrid MergeSort: 2189
+        Descending array
+                MergeSort: 3110
+                Hybrid MergeSort: 1451
+        Nearly sorted array
+                MergeSort: 3839
+                Hybrid MergeSort: 1260
+Size: 7300
+        Random array
+                MergeSort: 3803
+                Hybrid MergeSort: 2537
+        Descending array
+                MergeSort: 2910
+                Hybrid MergeSort: 1400
+        Nearly sorted array
+                MergeSort: 2772
+                Hybrid MergeSort: 1419
+Size: 7400
+        Random array
+                MergeSort: 3739
+                Hybrid MergeSort: 2412
+        Descending array
+                MergeSort: 2786
+                Hybrid MergeSort: 1450
+        Nearly sorted array
+                MergeSort: 3134
+                Hybrid MergeSort: 1176
+Size: 7500
+        Random array
+                MergeSort: 3786
+                Hybrid MergeSort: 2318
+        Descending array
+                MergeSort: 3002
+                Hybrid MergeSort: 1441
+        Nearly sorted array
+                MergeSort: 2892
+                Hybrid MergeSort: 1421
+Size: 7600
+        Random array
+                MergeSort: 3998
+                Hybrid MergeSort: 2379
+        Descending array
+                MergeSort: 3145
+                Hybrid MergeSort: 1484
+        Nearly sorted array
+                MergeSort: 2951
+                Hybrid MergeSort: 1503
+Size: 7700
+        Random array
+                MergeSort: 4107
+                Hybrid MergeSort: 2585
+        Descending array
+                MergeSort: 2805
+                Hybrid MergeSort: 1462
+        Nearly sorted array
+                MergeSort: 2947
+                Hybrid MergeSort: 1300
 Size: 7800
         Random array
-                MergeSort: 2944
-                Hybrid MergeSort: 1886
+                MergeSort: 4384
+                Hybrid MergeSort: 2618
         Descending array
-                MergeSort: 2141
-                Hybrid MergeSort: 1043
+                MergeSort: 2925
+                Hybrid MergeSort: 1721
         Nearly sorted array
-                MergeSort: 2125
-                Hybrid MergeSort: 1272
+                MergeSort: 3442
+                Hybrid MergeSort: 1329
 Size: 7900
         Random array
-                MergeSort: 2996
-                Hybrid MergeSort: 1866
+                MergeSort: 4029
+                Hybrid MergeSort: 2697
         Descending array
-                MergeSort: 2135
-                Hybrid MergeSort: 1032
+                MergeSort: 2960
+                Hybrid MergeSort: 1539
         Nearly sorted array
-                MergeSort: 2117
-                Hybrid MergeSort: 1034
+                MergeSort: 3434
+                Hybrid MergeSort: 1352
 Size: 8000
         Random array
-                MergeSort: 2931
-                Hybrid MergeSort: 2343
+                MergeSort: 4308
+                Hybrid MergeSort: 2502
         Descending array
-                MergeSort: 2143
-                Hybrid MergeSort: 1050
+                MergeSort: 3004
+                Hybrid MergeSort: 1797
         Nearly sorted array
-                MergeSort: 2156
-                Hybrid MergeSort: 1039
+                MergeSort: 3243
+                Hybrid MergeSort: 1378
 Size: 8100
         Random array
-                MergeSort: 2952
-                Hybrid MergeSort: 1897
+                MergeSort: 4782
+                Hybrid MergeSort: 2481
         Descending array
-                MergeSort: 2402
-                Hybrid MergeSort: 1524
+                MergeSort: 2993
+                Hybrid MergeSort: 2004
         Nearly sorted array
-                MergeSort: 3196
-                Hybrid MergeSort: 1522
+                MergeSort: 3117
+                Hybrid MergeSort: 1361
 Size: 8200
         Random array
-                MergeSort: 4019
-                Hybrid MergeSort: 2342
+                MergeSort: 4165
+                Hybrid MergeSort: 2553
         Descending array
-                MergeSort: 2144
-                Hybrid MergeSort: 1112
+                MergeSort: 3655
+                Hybrid MergeSort: 1799
         Nearly sorted array
-                MergeSort: 2139
-                Hybrid MergeSort: 1072
+                MergeSort: 3226
+                Hybrid MergeSort: 2026
 Size: 8300
         Random array
-                MergeSort: 2966
-                Hybrid MergeSort: 1897
+                MergeSort: 4244
+                Hybrid MergeSort: 2845
         Descending array
-                MergeSort: 2176
-                Hybrid MergeSort: 1077
+                MergeSort: 3152
+                Hybrid MergeSort: 1580
         Nearly sorted array
-                MergeSort: 2243
-                Hybrid MergeSort: 1046
+                MergeSort: 3443
+                Hybrid MergeSort: 1565
 Size: 8400
         Random array
-                MergeSort: 3022
-                Hybrid MergeSort: 1923
+                MergeSort: 4387
+                Hybrid MergeSort: 4276
         Descending array
-                MergeSort: 2197
-                Hybrid MergeSort: 1059
+                MergeSort: 3541
+                Hybrid MergeSort: 2211
         Nearly sorted array
-                MergeSort: 2185
-                Hybrid MergeSort: 1055
+                MergeSort: 3354
+                Hybrid MergeSort: 1432
 Size: 8500
         Random array
-                MergeSort: 3013
-                Hybrid MergeSort: 2237
+                MergeSort: 5558
+                Hybrid MergeSort: 3136
         Descending array
-                MergeSort: 2293
-                Hybrid MergeSort: 1064
+                MergeSort: 3176
+                Hybrid MergeSort: 1620
         Nearly sorted array
-                MergeSort: 2203
-                Hybrid MergeSort: 1054
+                MergeSort: 3693
+                Hybrid MergeSort: 1675
 Size: 8600
         Random array
-                MergeSort: 3037
-                Hybrid MergeSort: 1951
+                MergeSort: 4549
+                Hybrid MergeSort: 2926
         Descending array
-                MergeSort: 2242
-                Hybrid MergeSort: 1209
+                MergeSort: 3253
+                Hybrid MergeSort: 2174
         Nearly sorted array
-                MergeSort: 2392
-                Hybrid MergeSort: 1058
+                MergeSort: 3986
+                Hybrid MergeSort: 1462
 Size: 8700
         Random array
-                MergeSort: 3039
-                Hybrid MergeSort: 1942
+                MergeSort: 4977
+                Hybrid MergeSort: 2710
         Descending array
-                MergeSort: 2242
-                Hybrid MergeSort: 1052
+                MergeSort: 3866
+                Hybrid MergeSort: 1947
         Nearly sorted array
-                MergeSort: 2182
-                Hybrid MergeSort: 1068
+                MergeSort: 3285
+                Hybrid MergeSort: 1749
 Size: 8800
         Random array
-                MergeSort: 3012
-                Hybrid MergeSort: 1915
-        Descending array
-                MergeSort: 2197
-                Hybrid MergeSort: 1050
-        Nearly sorted array
-                MergeSort: 2190
-                Hybrid MergeSort: 1051
-Size: 8900
-        Random array
-                MergeSort: 3020
-                Hybrid MergeSort: 1967
+                MergeSort: 4741
+                Hybrid MergeSort: 3120
         Descending array
                 MergeSort: 3376
-                Hybrid MergeSort: 1131
+                Hybrid MergeSort: 1747
         Nearly sorted array
-                MergeSort: 2324
-                Hybrid MergeSort: 1079
+                MergeSort: 3659
+                Hybrid MergeSort: 1458
+Size: 8900
+        Random array
+                MergeSort: 5145
+                Hybrid MergeSort: 2777
+        Descending array
+                MergeSort: 3552
+                Hybrid MergeSort: 1894
+        Nearly sorted array
+                MergeSort: 3361
+                Hybrid MergeSort: 1470
 Size: 9000
         Random array
-                MergeSort: 3418
-                Hybrid MergeSort: 1943
+                MergeSort: 5386
+                Hybrid MergeSort: 3259
         Descending array
-                MergeSort: 2625
-                Hybrid MergeSort: 1074
+                MergeSort: 3604
+                Hybrid MergeSort: 1858
         Nearly sorted array
-                MergeSort: 2228
-                Hybrid MergeSort: 1057
+                MergeSort: 4046
+                Hybrid MergeSort: 1652
 Size: 9100
         Random array
-                MergeSort: 3123
-                Hybrid MergeSort: 1964
+                MergeSort: 5161
+                Hybrid MergeSort: 3110
         Descending array
-                MergeSort: 2322
-                Hybrid MergeSort: 1298
+                MergeSort: 4291
+                Hybrid MergeSort: 2289
         Nearly sorted array
-                MergeSort: 2411
-                Hybrid MergeSort: 1077
+                MergeSort: 3852
+                Hybrid MergeSort: 1560
 Size: 9200
         Random array
-                MergeSort: 3490
-                Hybrid MergeSort: 1998
+                MergeSort: 4861
+                Hybrid MergeSort: 3252
         Descending array
-                MergeSort: 2289
-                Hybrid MergeSort: 1115
+                MergeSort: 3690
+                Hybrid MergeSort: 2514
         Nearly sorted array
-                MergeSort: 2271
-                Hybrid MergeSort: 2396
+                MergeSort: 3651
+                Hybrid MergeSort: 1566
 Size: 9300
         Random array
-                MergeSort: 4202
-                Hybrid MergeSort: 1990
+                MergeSort: 5255
+                Hybrid MergeSort: 3101
         Descending array
-                MergeSort: 2273
-                Hybrid MergeSort: 1082
+                MergeSort: 3416
+                Hybrid MergeSort: 1781
         Nearly sorted array
-                MergeSort: 2279
-                Hybrid MergeSort: 1344
+                MergeSort: 3867
+                Hybrid MergeSort: 1912
 Size: 9400
         Random array
-                MergeSort: 3366
-                Hybrid MergeSort: 2053
+                MergeSort: 5401
+                Hybrid MergeSort: 2866
         Descending array
-                MergeSort: 2398
-                Hybrid MergeSort: 1121
+                MergeSort: 3728
+                Hybrid MergeSort: 1944
         Nearly sorted array
-                MergeSort: 2908
-                Hybrid MergeSort: 1134
+                MergeSort: 3681
+                Hybrid MergeSort: 1556
 Size: 9500
         Random array
-                MergeSort: 3824
-                Hybrid MergeSort: 2106
+                MergeSort: 4852
+                Hybrid MergeSort: 2905
         Descending array
-                MergeSort: 2323
-                Hybrid MergeSort: 1093
+                MergeSort: 3887
+                Hybrid MergeSort: 1822
         Nearly sorted array
-                MergeSort: 2543
-                Hybrid MergeSort: 1094
+                MergeSort: 3586
+                Hybrid MergeSort: 1552
 Size: 9600
         Random array
-                MergeSort: 3212
-                Hybrid MergeSort: 2092
+                MergeSort: 4913
+                Hybrid MergeSort: 3353
         Descending array
-                MergeSort: 3053
-                Hybrid MergeSort: 1118
+                MergeSort: 3629
+                Hybrid MergeSort: 2185
         Nearly sorted array
-                MergeSort: 2603
-                Hybrid MergeSort: 1150
+                MergeSort: 3725
+                Hybrid MergeSort: 1563
 Size: 9700
         Random array
-                MergeSort: 3258
-                Hybrid MergeSort: 2048
+                MergeSort: 5004
+                Hybrid MergeSort: 2949
         Descending array
-                MergeSort: 2702
-                Hybrid MergeSort: 1170
+                MergeSort: 3565
+                Hybrid MergeSort: 1849
         Nearly sorted array
-                MergeSort: 2363
-                Hybrid MergeSort: 1352
+                MergeSort: 4394
+                Hybrid MergeSort: 2450
 Size: 9800
         Random array
-                MergeSort: 3238
-                Hybrid MergeSort: 2048
+                MergeSort: 7530
+                Hybrid MergeSort: 3857
         Descending array
-                MergeSort: 2399
-                Hybrid MergeSort: 1375
+                MergeSort: 4071
+                Hybrid MergeSort: 2807
         Nearly sorted array
-                MergeSort: 2814
-                Hybrid MergeSort: 1107
+                MergeSort: 3759
+                Hybrid MergeSort: 1593
 Size: 9900
         Random array
-                MergeSort: 3248
-                Hybrid MergeSort: 2060
+                MergeSort: 5117
+                Hybrid MergeSort: 3106
         Descending array
-                MergeSort: 2424
-                Hybrid MergeSort: 1107
+                MergeSort: 3741
+                Hybrid MergeSort: 1895
         Nearly sorted array
-                MergeSort: 2374
-                Hybrid MergeSort: 1222
+                MergeSort: 4047
+                Hybrid MergeSort: 1605
 Size: 10000
         Random array
-                MergeSort: 3302
-                Hybrid MergeSort: 2077
+                MergeSort: 5276
+                Hybrid MergeSort: 3269
         Descending array
-                MergeSort: 2412
-                Hybrid MergeSort: 1117
+                MergeSort: 3691
+                Hybrid MergeSort: 1917
         Nearly sorted array
-                MergeSort: 2396
-                Hybrid MergeSort: 1109
+                MergeSort: 3910
+                Hybrid MergeSort: 1902
