@@ -1,0 +1,166 @@
+#include <iostream>
+#include <vector>
+#include <cmath>
+#include <chrono>
+#include <cstdint>
+#include <algorithm>
+#include <random>
+
+using namespace std;
+
+class ArrayGenerator {
+ public:
+  static std::vector<int> rnd(int size) {
+    std::vector<int> arr(size);
+    std::random_device rd;
+    std::mt19937 gen(rd());
+    std::uniform_int_distribution<> dis(0, 6000);
+
+    for (int i = 0; i < size; ++i) {
+      arr[i] = dis(gen);
+    }
+
+    return arr;
+  }
+
+  static vector<int> desc(int size) {
+    vector<int> arr = rnd(size);
+    sort(arr.begin(), arr.end(), greater<>());
+    return arr;
+  }
+
+  static std::vector<int> near(int size) {
+    std::vector<int> arr = rnd(size);
+    sort(arr.begin(), arr.end());
+    int inv = min(rand() % 5, size);
+    for (int i = 0; i < inv; ++i) {
+      swap(arr[rand() % size], arr[rand() % size]);
+    }
+    return arr;
+  }
+};
+
+//r not incl
+void merge(vector<int>& A, int l, int r, int m) {
+  int i = l;
+  int j = m;
+  vector<int> temp(r - l);
+  int ind = 0;
+  while (i < m && j < r) {
+    if (A[i] < A[j]) {
+      temp[ind] = A[i];
+      ++i;
+    } else {
+      temp[ind] = A[j];
+      ++j;
+    }
+    ++ind;
+  }
+  while (i < m) {
+    temp[ind] = A[i];
+    ++i;
+    ++ind;
+  }
+  while(j < r) {
+    temp[ind] = A[j];
+    ++j;
+    ++ind;
+  }
+  for (int k = l; k < r; ++k) {
+    A[k] = temp[k - l];
+  }
+}
+
+void mergeSort(vector<int>& A, int l, int r) {
+  if (l >= r - 1) {
+    return;
+  }
+  int m = (l + r) / 2;
+  mergeSort(A, l, m);
+  mergeSort(A, m, r);
+  merge(A, l, r, m);
+}
+
+void insertion(vector<int>& A, int l, int r) {
+  for (int i = l + 1; i < r; ++i) {
+    int val = A[i];
+    int j = i - 1;
+    while (A[j] > val && j >= l) {
+      A[j + 1] = A[j];
+      --j;
+    }
+    A[j + 1] = val;
+  }
+}
+
+void mergeSortHybrid(vector<int>& A, int l, int r) {
+  if (l >= r) {
+    return;
+  }
+  if (r - l < 15) {
+    insertion(A, l, r);
+    return;
+  }
+  int m = (l + r) / 2;
+  mergeSortHybrid(A, l, m);
+  mergeSortHybrid(A, m, r);
+  merge(A, l, r, m);
+}
+
+
+class SortTester {
+ public:
+  static long long testMergeSort(std::vector<int>& A) {
+    auto start = std::chrono::high_resolution_clock::now();
+    mergeSort(A, 0, A.size());
+    auto end = std::chrono::high_resolution_clock::now() - start;
+    return std::chrono::duration_cast<std::chrono::microseconds>(end).count();
+  }
+
+  static long long testMergeSortHybrid(std::vector<int>& A) {
+    auto start = std::chrono::high_resolution_clock::now();
+    mergeSortHybrid(A, 0, A.size());
+    auto end = std::chrono::high_resolution_clock::now();
+    return std::chrono::duration_cast<std::chrono::microseconds>(end - start).count();
+  }
+};
+
+
+void print(vector<int> v) {
+  cout << "\n";
+  for (int i = 0; i < v.size(); ++i) {
+    cout << v[i] << ' ';
+  }
+  cout << "\n";
+}
+
+int main() {
+  ios::sync_with_stdio(false);
+  std::cin.tie(nullptr);
+  vector<int> test1 = ArrayGenerator::rnd(10000);
+  vector<int> test2 = ArrayGenerator::desc(10000);
+  vector<int> test3 = ArrayGenerator::near(10000);
+
+  for (int i = 500; i <= 10000; i += 100) {
+    int d = rand() % (10000 - i - 1);
+    vector<int> v1(i);
+    vector<int> v2(i);
+    vector<int> u1(i);
+    vector<int> u2(i);
+    vector<int> z1(i);
+    vector<int> z2(i);
+    copy(test1.begin() + d, test1.begin() + d + i, v1.begin());
+    copy(test1.begin() + d, test1.begin() + d + i, v2.begin());
+    copy(test2.begin() + d, test2.begin() + d + i, u1.begin());
+    copy(test2.begin() + d, test2.begin() + d + i, u2.begin());
+    copy(test3.begin() + d, test3.begin() + d + i, z1.begin());
+    copy(test3.begin() + d, test3.begin() + d + i, z2.begin());
+    cout << "\nSize: " <<  i << "\tRandom array" << "\n\t\tMergeSort: " <<
+      SortTester::testMergeSort(v1) << "\n\t\tHybrid MergeSort: " << SortTester::testMergeSortHybrid(v2);
+    cout << "\n\tDescending array" << "\n\t\tMergeSort: " <<
+         SortTester::testMergeSort(v1) << "\n\t\tHybrid MergeSort: " << SortTester::testMergeSortHybrid(v2);
+    cout << "\n\tNearly sorted array" << "\n\t\tMergeSort: " <<
+         SortTester::testMergeSort(v1) << "\n\t\tHybrid MergeSort: " << SortTester::testMergeSortHybrid(v2);
+  }
+}
+
